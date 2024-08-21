@@ -3,6 +3,8 @@
 **Objective**:
 The goal was to predict whether a tumor is **benign** or **malignant** based on diagnostic features using machine learning techniques, focusing on improving classification performance.
 
+**Dataset**: Breast Cancer Wisconsin (Diagnostic) Data Set (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)
+
 **Data Preprocessing**:
 1. **Handling Missing Values**:
    - We identified and removed missing values from the `diagnosis` column, reducing the dataset to 271 samples from the original 569.
