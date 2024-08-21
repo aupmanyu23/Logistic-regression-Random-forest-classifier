@@ -22,6 +22,3 @@ The goal was to predict whether a tumor is **benign** or **malignant** based on 
   
 **Cross-Validation**:
 - Logistic Regression was evaluated with **5-fold cross-validation**, producing an average score of **64%**, indicating moderate generalizability.
-
-**Key Results**:
-- The **Random Forest** model outperformed Logistic Regression with **73% accuracy**, showing stronger performance in distinguishing between benign and malignant tumors.
